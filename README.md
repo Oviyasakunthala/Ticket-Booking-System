@@ -4,21 +4,6 @@ The Ticket Booking System is a Java-based console application that allows users 
 
 ---
 
-## 📝 Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation and Running](#installation-and-running)
-- [Sample Output](#sample-output)
-- [Class Descriptions](#class-descriptions)
-- [OOP Concepts Used](#oop-concepts-used)
-- [Enhancement Ideas](#enhancement-ideas)
-- [Screenshots](#screenshots)
-- [License](#license)
-
----
-
 ## ✅ Features
 
 - View different types of events (Movies, Concerts, Sports)
@@ -37,6 +22,3 @@ The Ticket Booking System is a Java-based console application that allows users 
 - ✅ Text-based interface
 
 ---
-
-## 📁 Project Structure
-
